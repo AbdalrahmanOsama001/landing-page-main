@@ -42,10 +42,10 @@ This project is a simple, yet stylish, single-page website designed to showcase 
 
 You can check out this landing page in two ways:
 
-1. **The Easy Way:**  I've put this project up on GitHub Pages so you can see it live! Just click [this link](https://abdalrahmanosama001.github.io/landing-page-project/). 
+1. **The Easy Way:**  I've put this project up on GitHub Pages so you can see it live! Just click [this link](https://abdalrahmanosama001.github.io/landing-page-main/). 
 2. **The Code-Savvy Way:**
     1. **Clone the Repository:** 
         ```bash
-        git clone https://github.com/abdalrahmanosama001/landing-page-project.git
+        git clone https://github.com/abdalrahmanosama001/landing-page-main.git
         ```
     2. **Open index.html:**  Open the `index.html` file in your web browser. 
